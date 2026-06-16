@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.vscode/
+# Exclude local database if you want a fresh start for others
+db.json
